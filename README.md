@@ -31,20 +31,25 @@ It serves as a strong foundation for Data Analytics, Business Intelligence, Mach
 🧱 2. Project Objectives
 
 ✔ Create a realistic synthetic sales dataset
+
 ✔ Perform full EDA using Python
+
 ✔ Understand business questions hidden in the data
+
 ✔ Visualize metrics such as:
 
-Monthly sales trend
+- Monthly sales trend
 
-Product category performance
+- Product category performance
 
-Quantity vs revenue relationship
+- Quantity vs revenue relationship
 
-Price distribution
+- Price distribution
 
 ✔ Handle missing values & data types
+
 ✔ Automate report generation
+
 ✔ Upload to GitHub as a clean professional project
 
 ---
