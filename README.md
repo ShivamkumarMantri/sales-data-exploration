@@ -12,19 +12,19 @@ The goal is to simulate how data analysts and data scientists handle business da
 
 This project includes:
 
-Generating a realistic sample sales dataset
+- Generating a realistic sample sales dataset
 
-Cleaning, preprocessing, and exploring data
+- Cleaning, preprocessing, and exploring data
 
-Identifying trends, patterns, and relationships
+- Identifying trends, patterns, and relationships
 
-Visualizing KPIs and metrics
+- Visualizing KPIs and metrics
 
-Documenting observations in a structured report
+- Documenting observations in a structured report
 
-Automating workflows through Python scripts
+- Automating workflows through Python scripts
 
-Uploading and version-controlling the project using GitHub
+- Uploading and version-controlling the project using GitHub
 
 It serves as a strong foundation for Data Analytics, Business Intelligence, Machine Learning preprocessing, and real-world data engineering tasks.
 
