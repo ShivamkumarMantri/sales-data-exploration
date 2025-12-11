@@ -1,6 +1,9 @@
 <p align="center">
-  <img src="docs/images/Sales_Data_Exploration_banner.png" alt="Sales Data Exploration Banner" width="800">
+  <img src="docs/images/Sales_Data_Exploration_banner.png" alt="Sales Data Exploration Banner" width="900">
 </p>
+
+<h1 align="center">Sales Data Exploration Project</h1>
+
 
 # Sales Data Exploration
 
