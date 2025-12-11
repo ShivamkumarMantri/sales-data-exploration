@@ -29,6 +29,7 @@ This project includes:
 It serves as a strong foundation for Data Analytics, Business Intelligence, Machine Learning preprocessing, and real-world data engineering tasks.
 
 🧱 2. Project Objectives
+
 ✔ Create a realistic synthetic sales dataset
 ✔ Perform full EDA using Python
 ✔ Understand business questions hidden in the data
