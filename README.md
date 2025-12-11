@@ -45,25 +45,3 @@ Price distribution
 ✔ Handle missing values & data types
 ✔ Automate report generation
 ✔ Upload to GitHub as a clean professional project
-📁 3. Folder Structure
-sales_data_exploration/
-│
-├── data/
-│   └── sample_sales.csv
-│
-├── outputs/
-│   ├── exploration_report.md
-│   └── figures/
-│       ├── hist_final_price.png
-│       ├── sales_by_product.png
-│       ├── scatter_quantity_finalprice.png
-│       └── monthly_sales.png
-│
-├── src/
-│   ├── generate_sample_data.py
-│   └── data_exploration.py
-│
-├── .gitignore
-├── requirements.txt
-├── README.md  ← (this file)
-
