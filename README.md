@@ -75,10 +75,6 @@ These charts help highlight patterns, trends, and relationships within the datas
 ![Quantity vs Final Price](docs/images/scatter_quantity_finalprice.png)
 
 ---
-
-## 📅 4. Monthly Sales Trend
-![Monthly Sales Trend](docs/images/monthly_sales.png)
-
 ---
 
 
